@@ -1,0 +1,66 @@
+Local git is configured with url of 'https://shawnclarkedeploy@h2oclock.scm.azurewebsites.net/h2oclock.git'
+{
+  "availabilityState": "Normal",
+  "clientAffinityEnabled": true,
+  "clientCertEnabled": false,
+  "cloningInfo": null,
+  "containerSize": 0,
+  "dailyMemoryTimeQuota": 0,
+  "defaultHostName": "h2oclock.azurewebsites.net",
+  "deploymentLocalGitUrl": "https://shawnclarkedeploy@h2oclock.scm.azurewebsites.net/h2oclock.git",
+  "enabled": true,
+  "enabledHostNames": [
+    "h2oclock.azurewebsites.net",
+    "h2oclock.scm.azurewebsites.net"
+  ],
+  "ftpPublishingUrl": "ftp://waws-prod-am2-145.ftp.azurewebsites.windows.net/site/wwwroot",
+  "gatewaySiteName": null,
+  "hostNameSslStates": [
+    {
+      "hostType": "Standard",
+      "name": "h2oclock.azurewebsites.net",
+      "sslState": "Disabled",
+      "thumbprint": null,
+      "toUpdate": null,
+      "virtualIp": null
+    },
+    {
+      "hostType": "Repository",
+      "name": "h2oclock.scm.azurewebsites.net",
+      "sslState": "Disabled",
+      "thumbprint": null,
+      "toUpdate": null,
+      "virtualIp": null
+    }
+  ],
+  "hostNames": [
+    "h2oclock.azurewebsites.net"
+  ],
+  "hostNamesDisabled": false,
+  "hostingEnvironmentProfile": null,
+  "id": "/subscriptions/ca833bac-b8da-4997-adcd-2c08500837ce/resourceGroups/h2oclock/providers/Microsoft.Web/sites/h2oclock",
+  "isDefaultContainer": null,
+  "kind": "app",
+  "lastModifiedTimeUtc": "2017-11-01T15:45:24.420000",
+  "location": "West Europe",
+  "maxNumberOfWorkers": null,
+  "microService": null,
+  "name": "h2oclock",
+  "outboundIpAddresses": "52.232.127.196,52.232.26.195,104.45.9.56,104.40.217.215,52.232.31.109",
+  "premiumAppDeployed": null,
+  "repositorySiteName": "h2oclock",
+  "reserved": false,
+  "resourceGroup": "h2oclock",
+  "scmSiteAlsoStopped": false,
+  "serverFarmId": "/subscriptions/ca833bac-b8da-4997-adcd-2c08500837ce/resourceGroups/h2oclock/providers/Microsoft.Web/serverfarms/h2oclockAppServicePlan",
+  "siteConfig": null,
+  "slotSwapStatus": null,
+  "snapshotInfo": null,
+  "state": "Running",
+  "suspendedTill": null,
+  "tags": null,
+  "targetSwapSlot": null,
+  "trafficManagerHostNames": null,
+  "type": "Microsoft.Web/sites",
+  "usageState": "Normal"
+}
